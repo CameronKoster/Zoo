@@ -1,4 +1,4 @@
-class Quail {
+export default class Quail {
   constructor(name, color) {
     this.name = name
     this.color = color
